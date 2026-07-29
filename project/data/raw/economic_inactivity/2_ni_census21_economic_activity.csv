@@ -1,0 +1,153 @@
+Sex Code,Sex Label,Economic Activity - 4 Categories Code,Economic Activity - 4 Categories Label,Age - 19 Categories Code,Age - 19 Categories Label,Count
+1,Female,1,Economically active: In employment (including full-time students),1,0-4 years,0
+1,Female,1,Economically active: In employment (including full-time students),2,5-9 years,0
+1,Female,1,Economically active: In employment (including full-time students),3,10-14 years,0
+1,Female,1,Economically active: In employment (including full-time students),4,15-19 years,12496
+1,Female,1,Economically active: In employment (including full-time students),5,20-24 years,35229
+1,Female,1,Economically active: In employment (including full-time students),6,25-29 years,44789
+1,Female,1,Economically active: In employment (including full-time students),7,30-34 years,49162
+1,Female,1,Economically active: In employment (including full-time students),8,35-39 years,49658
+1,Female,1,Economically active: In employment (including full-time students),9,40-44 years,47751
+1,Female,1,Economically active: In employment (including full-time students),10,45-49 years,45651
+1,Female,1,Economically active: In employment (including full-time students),11,50-54 years,46609
+1,Female,1,Economically active: In employment (including full-time students),12,55-59 years,39488
+1,Female,1,Economically active: In employment (including full-time students),13,60-64 years,24316
+1,Female,1,Economically active: In employment (including full-time students),14,65-69 years,8093
+1,Female,1,Economically active: In employment (including full-time students),15,70-74 years,2529
+1,Female,1,Economically active: In employment (including full-time students),16,75-79 years,922
+1,Female,1,Economically active: In employment (including full-time students),17,80-84 years,253
+1,Female,1,Economically active: In employment (including full-time students),18,85-89 years,83
+1,Female,1,Economically active: In employment (including full-time students),19,90+ years,53
+1,Female,2,Economically active: Unemployed (including full-time students),1,0-4 years,0
+1,Female,2,Economically active: Unemployed (including full-time students),2,5-9 years,0
+1,Female,2,Economically active: Unemployed (including full-time students),3,10-14 years,0
+1,Female,2,Economically active: Unemployed (including full-time students),4,15-19 years,3868
+1,Female,2,Economically active: Unemployed (including full-time students),5,20-24 years,3100
+1,Female,2,Economically active: Unemployed (including full-time students),6,25-29 years,1843
+1,Female,2,Economically active: Unemployed (including full-time students),7,30-34 years,1541
+1,Female,2,Economically active: Unemployed (including full-time students),8,35-39 years,1255
+1,Female,2,Economically active: Unemployed (including full-time students),9,40-44 years,1114
+1,Female,2,Economically active: Unemployed (including full-time students),10,45-49 years,1035
+1,Female,2,Economically active: Unemployed (including full-time students),11,50-54 years,1120
+1,Female,2,Economically active: Unemployed (including full-time students),12,55-59 years,1052
+1,Female,2,Economically active: Unemployed (including full-time students),13,60-64 years,775
+1,Female,2,Economically active: Unemployed (including full-time students),14,65-69 years,172
+1,Female,2,Economically active: Unemployed (including full-time students),15,70-74 years,19
+1,Female,2,Economically active: Unemployed (including full-time students),16,75-79 years,10
+1,Female,2,Economically active: Unemployed (including full-time students),17,80-84 years,2
+1,Female,2,Economically active: Unemployed (including full-time students),18,85-89 years,2
+1,Female,2,Economically active: Unemployed (including full-time students),19,90+ years,2
+1,Female,3,Economically inactive,1,0-4 years,0
+1,Female,3,Economically inactive,2,5-9 years,0
+1,Female,3,Economically inactive,3,10-14 years,0
+1,Female,3,Economically inactive,4,15-19 years,27459
+1,Female,3,Economically inactive,5,20-24 years,15546
+1,Female,3,Economically inactive,6,25-29 years,11913
+1,Female,3,Economically inactive,7,30-34 years,14166
+1,Female,3,Economically inactive,8,35-39 years,14673
+1,Female,3,Economically inactive,9,40-44 years,14086
+1,Female,3,Economically inactive,10,45-49 years,14904
+1,Female,3,Economically inactive,11,50-54 years,19220
+1,Female,3,Economically inactive,12,55-59 years,24967
+1,Female,3,Economically inactive,13,60-64 years,32615
+1,Female,3,Economically inactive,14,65-69 years,38890
+1,Female,3,Economically inactive,15,70-74 years,40574
+1,Female,3,Economically inactive,16,75-79 years,34699
+1,Female,3,Economically inactive,17,80-84 years,24555
+1,Female,3,Economically inactive,18,85-89 years,15838
+1,Female,3,Economically inactive,19,90+ years,9506
+1,Female,-8,No code required,1,0-4 years,55371
+1,Female,-8,No code required,2,5-9 years,60793
+1,Female,-8,No code required,3,10-14 years,61964
+1,Female,-8,No code required,4,15-19 years,11316
+1,Female,-8,No code required,5,20-24 years,0
+1,Female,-8,No code required,6,25-29 years,0
+1,Female,-8,No code required,7,30-34 years,0
+1,Female,-8,No code required,8,35-39 years,0
+1,Female,-8,No code required,9,40-44 years,0
+1,Female,-8,No code required,10,45-49 years,0
+1,Female,-8,No code required,11,50-54 years,0
+1,Female,-8,No code required,12,55-59 years,0
+1,Female,-8,No code required,13,60-64 years,0
+1,Female,-8,No code required,14,65-69 years,0
+1,Female,-8,No code required,15,70-74 years,0
+1,Female,-8,No code required,16,75-79 years,0
+1,Female,-8,No code required,17,80-84 years,0
+1,Female,-8,No code required,18,85-89 years,0
+1,Female,-8,No code required,19,90+ years,0
+2,Male,1,Economically active: In employment (including full-time students),1,0-4 years,0
+2,Male,1,Economically active: In employment (including full-time students),2,5-9 years,0
+2,Male,1,Economically active: In employment (including full-time students),3,10-14 years,0
+2,Male,1,Economically active: In employment (including full-time students),4,15-19 years,12894
+2,Male,1,Economically active: In employment (including full-time students),5,20-24 years,37388
+2,Male,1,Economically active: In employment (including full-time students),6,25-29 years,46596
+2,Male,1,Economically active: In employment (including full-time students),7,30-34 years,50950
+2,Male,1,Economically active: In employment (including full-time students),8,35-39 years,51804
+2,Male,1,Economically active: In employment (including full-time students),9,40-44 years,49217
+2,Male,1,Economically active: In employment (including full-time students),10,45-49 years,48482
+2,Male,1,Economically active: In employment (including full-time students),11,50-54 years,48803
+2,Male,1,Economically active: In employment (including full-time students),12,55-59 years,43901
+2,Male,1,Economically active: In employment (including full-time students),13,60-64 years,29794
+2,Male,1,Economically active: In employment (including full-time students),14,65-69 years,13123
+2,Male,1,Economically active: In employment (including full-time students),15,70-74 years,5311
+2,Male,1,Economically active: In employment (including full-time students),16,75-79 years,2488
+2,Male,1,Economically active: In employment (including full-time students),17,80-84 years,920
+2,Male,1,Economically active: In employment (including full-time students),18,85-89 years,287
+2,Male,1,Economically active: In employment (including full-time students),19,90+ years,66
+2,Male,2,Economically active: Unemployed (including full-time students),1,0-4 years,0
+2,Male,2,Economically active: Unemployed (including full-time students),2,5-9 years,0
+2,Male,2,Economically active: Unemployed (including full-time students),3,10-14 years,0
+2,Male,2,Economically active: Unemployed (including full-time students),4,15-19 years,3921
+2,Male,2,Economically active: Unemployed (including full-time students),5,20-24 years,5013
+2,Male,2,Economically active: Unemployed (including full-time students),6,25-29 years,3078
+2,Male,2,Economically active: Unemployed (including full-time students),7,30-34 years,2304
+2,Male,2,Economically active: Unemployed (including full-time students),8,35-39 years,1871
+2,Male,2,Economically active: Unemployed (including full-time students),9,40-44 years,1583
+2,Male,2,Economically active: Unemployed (including full-time students),10,45-49 years,1553
+2,Male,2,Economically active: Unemployed (including full-time students),11,50-54 years,1760
+2,Male,2,Economically active: Unemployed (including full-time students),12,55-59 years,1891
+2,Male,2,Economically active: Unemployed (including full-time students),13,60-64 years,1630
+2,Male,2,Economically active: Unemployed (including full-time students),14,65-69 years,326
+2,Male,2,Economically active: Unemployed (including full-time students),15,70-74 years,52
+2,Male,2,Economically active: Unemployed (including full-time students),16,75-79 years,20
+2,Male,2,Economically active: Unemployed (including full-time students),17,80-84 years,11
+2,Male,2,Economically active: Unemployed (including full-time students),18,85-89 years,1
+2,Male,2,Economically active: Unemployed (including full-time students),19,90+ years,0
+2,Male,3,Economically inactive,1,0-4 years,0
+2,Male,3,Economically inactive,2,5-9 years,0
+2,Male,3,Economically inactive,3,10-14 years,0
+2,Male,3,Economically inactive,4,15-19 years,29345
+2,Male,3,Economically inactive,5,20-24 years,15110
+2,Male,3,Economically inactive,6,25-29 years,8190
+2,Male,3,Economically inactive,7,30-34 years,7926
+2,Male,3,Economically inactive,8,35-39 years,8052
+2,Male,3,Economically inactive,9,40-44 years,8411
+2,Male,3,Economically inactive,10,45-49 years,10044
+2,Male,3,Economically inactive,11,50-54 years,13454
+2,Male,3,Economically inactive,12,55-59 years,17978
+2,Male,3,Economically inactive,13,60-64 years,23920
+2,Male,3,Economically inactive,14,65-69 years,32860
+2,Male,3,Economically inactive,15,70-74 years,34983
+2,Male,3,Economically inactive,16,75-79 years,28238
+2,Male,3,Economically inactive,17,80-84 years,18034
+2,Male,3,Economically inactive,18,85-89 years,9668
+2,Male,3,Economically inactive,19,90+ years,3888
+2,Male,-8,No code required,1,0-4 years,58449
+2,Male,-8,No code required,2,5-9 years,63683
+2,Male,-8,No code required,3,10-14 years,64954
+2,Male,-8,No code required,4,15-19 years,11903
+2,Male,-8,No code required,5,20-24 years,0
+2,Male,-8,No code required,6,25-29 years,0
+2,Male,-8,No code required,7,30-34 years,0
+2,Male,-8,No code required,8,35-39 years,0
+2,Male,-8,No code required,9,40-44 years,0
+2,Male,-8,No code required,10,45-49 years,0
+2,Male,-8,No code required,11,50-54 years,0
+2,Male,-8,No code required,12,55-59 years,0
+2,Male,-8,No code required,13,60-64 years,0
+2,Male,-8,No code required,14,65-69 years,0
+2,Male,-8,No code required,15,70-74 years,0
+2,Male,-8,No code required,16,75-79 years,0
+2,Male,-8,No code required,17,80-84 years,0
+2,Male,-8,No code required,18,85-89 years,0
+2,Male,-8,No code required,19,90+ years,0
